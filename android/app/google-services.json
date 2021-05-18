@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1416722439",
+    "project_id": "visab-practice",
+    "storage_bucket": "visab-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1416722439:android:e484360bc33b0b316b92a2",
+        "android_client_info": {
+          "package_name": "com.example.tourist_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1416722439-p16gp6ms8n61pgmoi3g85gr1fapgfdpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEoppqfQHe2SfEaTu5Lkd9YlpJ8__GYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1416722439-p16gp6ms8n61pgmoi3g85gr1fapgfdpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1416722439:android:f4e99a126dc5a4886b92a2",
+        "android_client_info": {
+          "package_name": "com.example.visab_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1416722439-p16gp6ms8n61pgmoi3g85gr1fapgfdpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEoppqfQHe2SfEaTu5Lkd9YlpJ8__GYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1416722439-p16gp6ms8n61pgmoi3g85gr1fapgfdpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
